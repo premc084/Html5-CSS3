@@ -1,0 +1,163 @@
+
+@media (min-width: 320px) and (max-width: 480px) {
+ .container .bg-text{
+	    position: absolute;
+    top: 65%;
+    left: 3%;
+    background-color: #4b4aa529;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 82%;
+}
+.container .bg-text h1{
+font-size: 18px;
+}
+.container .bg-text p{
+font-size: 12px;
+}
+.container .text-button p{
+	height: 25px;
+	width: 34%;
+	background-color: black;
+	color: white;
+	border-radius: 30px;
+	text-align: center;
+	opacity: 0.9;
+	float: left;
+}
+.container .text-button2 p{
+	height: 25px;
+	width: 34%;
+	background-color: black;
+	color: white;
+	border-radius: 30px;
+	text-align: center;
+	opacity: 0.9;
+	float: right;
+} 
+.headerlogo{
+	background-color:transparent;
+	height: 50px;
+	padding: 9px;
+	
+}
+.headerlogo .logo{
+	width: 100%;
+	
+}
+.headerlogo .logo h1{
+	text-align: center;
+	font: normal 30px Cookie, Arial, Helvetica, sans-serif;
+	line-height: 30px;
+	margin: 0;
+}	
+ .headerlogo .logo h1 span{
+ 	color: #5383d3;
+ 	font-size: 30px;
+ }
+.headerlogo .logo nav{
+ 	font:18px Arial, Helvetica, sans-serif;
+	line-height: 30px;
+	float: left;
+	font-family: cursive;
+ }
+ .headerlogo .logo a{
+ 	text-decoration: none;
+ }
+ .headerlogo .logo nav a{
+ 	display: inline-block;
+ 	padding: 0 5px;
+ 	text-decoration:none;
+	color: black;
+	opacity: 0.9;
+ }
+ .headerlogo .logo nav a:hover{
+ 	color:green;
+ 	opacity: 1;
+ 	text-decoration: underline wavy green;
+ }
+ 
+.bg-image:before
+{
+	display: none;
+}
+  
+.bg-image:after{
+	display: none;
+}
+.guns-type h1 {
+    text-align: center;
+    color: #5383d3;
+    font-size: 25px;
+}
+.row .column img{
+width: 60%;
+}
+.row .column {
+    float: left;
+    width: 17%;
+    height:45px;
+    padding: 6px;
+    font-family: cursive;
+    text-align: center;
+}
+ .right img,h4{
+height: 200px;
+width:90%;
+display: none;	
+}
+.left{
+	width: 30%;
+}
+.middle{
+	width: 58%;
+}
+
+.three-col .row1 .column1{
+	height: auto;
+}
+.fifthcol-button img{
+	width: 136%;
+}
+.six-col-one{
+width: 100%;
+}
+.six-col-two{
+width: 100%;
+}
+.six-col-three{
+width: 100%;	
+}
+.seven-col {
+    float: left;
+    width: 29%;
+    padding: 8px;
+}
+.price .header {   
+    font-size: 16px;  
+}
+.contact textarea {
+    width: 85%;
+}
+.contact input[type="text"], input[type="email"] {
+    width: 45%;
+}
+footer .eight-row .eight-col {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+.eight-col.thirdbox, .eight-col.secbox {
+    display: none;
+}
+.contact {
+    height: 576px;
+}
+
+footer .footerinfo{
+	text-align: center;
+}
+
+
+}
